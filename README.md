@@ -5,7 +5,7 @@ Author of the code is Wazuh Inc.
 
 Source: https://wazuh.com/blog/preventing-and-detecting-ransomware-with-wazuh/
 
-USE ONLY FOR TEST PURPOSES IN A SAFE ENVIORNMENT
+USE ONLY FOR TEST PURPOSES IN A SAFE ENVIRONMENT
 
 Репозиторій загальнодоступних файлів Wazuh PoC
 
