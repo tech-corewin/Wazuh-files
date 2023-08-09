@@ -1,4 +1,6 @@
 # Wazuh-files
 Repository for public Wazuh PoC files
 
-Author if the code is Wazuh Inc.
+Author of the code is Wazuh Inc.
+
+Source: https://wazuh.com/blog/preventing-and-detecting-ransomware-with-wazuh/
