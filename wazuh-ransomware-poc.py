@@ -3,6 +3,7 @@
 # Copyright (C) 2015-2019, Wazuh Inc.
 # Created by Wazuh, Inc. <info@wazuh.com>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
+# Testing scope 104
 
 import os
 import random
@@ -110,5 +111,6 @@ if __name__ == '__main__':
         encrypt_files(basedir, key)
     elif action == "restore":
         decrypt_files(basedir, key)
+
 
 
